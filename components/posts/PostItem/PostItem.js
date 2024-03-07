@@ -11,7 +11,7 @@ function PostItem({ post }) {
     year: 'numeric',
   });
 
-  const imagePath = `/posts/${slug}/${image}`;
+  const imagePath = `/images/posts/${slug}/${image}`;
   const linkPath = `/posts/${slug}`;
 
   return (
