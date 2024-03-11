@@ -7,4 +7,4 @@
 
 ## Dependencies:
 
-react-markdown, gray-matter
+react-markdown, gray-matter, react-syntax-highlighter.
